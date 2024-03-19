@@ -17,5 +17,3 @@ The Guessing Game is a Java program that allows users to play a custom guessing 
 
 ## Technologies Used
 - Java programming language
-- Random class for generating random numbers
-- Scanner class for user input
